@@ -13,7 +13,7 @@ function initialize() {
     let url = [tv, nr, pw, vg, gi, sm];
 
     for (var i = 0; i < url.length; i++) {
-        xml = loadXMLDoc("http://api.worldbank.org/v2/country/" + url[i] + "/indicator/SP.POP.TOTL?date=1970:2018");
+        xml = loadXMLDoc("https://api.worldbank.org/v2/country/" + url[i] + "/indicator/SP.POP.TOTL?date=1970:2018");
         displayResult(xml, xsl, url[i]);
     }
 }
