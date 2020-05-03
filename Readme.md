@@ -7,7 +7,7 @@ Web with the TOP 6 countries with less population in the World
 
 ## Resources
 * XSL file that transforms the converted XML document into another HTML:  
-https://github.com/aaronmed/blob/master/countries-population/data.xsl
+https://github.com/aaronmed/countries-population/blob/master/data.xsl
 
 
 ## Acknowledgments
