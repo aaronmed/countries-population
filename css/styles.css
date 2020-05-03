@@ -1,0 +1,37 @@
+.my-custom-scrollbar {
+    position: relative;
+    height: 50vh;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.country-title{
+    text-align: center;
+    position: block;
+    font-weight: bold;
+}
+
+#header{
+    text-align: center;
+    margin-top: 10vh;
+}
+
+#data-table{
+    text-align: center;
+}
+
+#margin-tables{
+    margin-top: 5vh;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: 5vh;
+}
+
+#header-tables{
+    text-align: center;
+    margin-top: 5vh;
+    font-weight: bold;
+}
